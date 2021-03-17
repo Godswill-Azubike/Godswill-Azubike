@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello People (I mean you)! 👋🏽
 
-<!--
-**Godswill-Azubike/Godswill-Azubike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Godswill Azubike, I enjoy slapping my keyboard untill something good actually happens. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I currently work at my startup named [Tristics](https://www.tristics.com), a peer-to-peer travel and delivery platform designed to give travellers the ability to earn and for individuals to send parcels at a low and negotiable cost. You can probably reach out to me on [Twitter](https://twitter.com/GodswillAzubike), let's have talk about tech!
+
+<p align="center">
+  <a href="https://github.com/Godswill-Azubike?tab=followers">
+    <img src="https://img.shields.io/github/followers/Godswill-Azubike?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/acekyd">
+    <img src="https://img.shields.io/twitter/follow/GodswillAzubike?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Godswill-Azubike&show_icons=true&theme=tokyonight&line_height=52&count_private=true" />
+</p>
+
